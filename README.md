@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brystingjosephine
-- 👀 I’m interested in cancer immunotherapies and identification of tumor-specific novel antigens.
+- 👀 I’m interested in cancer immunotherapies and identification of novel tumor-specific antigens.
 - 📫 How to reach me: josephine.brysting@embl.de.
 
 <!---
